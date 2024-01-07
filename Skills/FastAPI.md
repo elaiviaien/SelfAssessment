@@ -1,28 +1,28 @@
 # Python FastAPI
 
 - Framework
-  - Asynchronous Programming 👂 heard
-  - Routing 👂 heard
-  - Validation 👂 heard
-  - Models 👂 heard
-  - Dependency Management 👂 heard
-  - Background Tasks 👂 heard
-  - Exception Handling 👂 heard
-  - Middleware 👂 heard
-  - Pydantic 👂 heard
-  - CRUD 👂 heard
-  - Authentication 👂 heard
-  - OAuth2 Authentication 👂 heard
-  - JWT 👂 heard
-  - OAuth2 Password Flow 👂 heard
-  - API Key Security 👂 heard
-  - Rate Limiting 👂 heard
-  - Unit Testing in FastAPI 👂 heard
-  - Dockerizing 👂 heard
-  - Performance Optimization 👂 heard
-  - OpenAPI and Swagger UI 👂 heard
-  - WebSocket Communication 👂 heard
-  - Middleware 👂 heard
+  - Asynchronous Programming 🖐️ used
+  - Routing 🖐️ used
+  - Validation 🖐️ used
+  - Models 🖐️ used
+  - Dependency Management 🖐️ used
+  - Background Tasks 🖐️ used
+  - Exception Handling 🖐️ used
+  - Middleware 🖐️ used
+  - Pydantic 🖐️ used
+  - CRUD 🖐️ used
+  - Authentication 🖐️ used
+  - OAuth2 Authentication 🖐️ used
+  - JWT 🖐️ used
+  - OAuth2 Password Flow 🖐️ used
+  - API Key Security 🖐️ used
+  - Rate Limiting 🖐️ used
+  - Unit Testing in FastAPI 🖐️ used
+  - Dockerizing 🖐️ used
+  - Performance Optimization 🖐️ used
+  - OpenAPI and Swagger UI 🖐️ used
+  - WebSocket Communication 🖐️ used
+  - Middleware 🖐️ used
 - Application structure and architecture 
   - Isolation between layer 🖐️ used
   - Multilayer approach 🖐️ used
@@ -34,8 +34,8 @@
   - Distributed systems 🖐️ used
   - Highload applications 🙋 explained
   - Clean architecture 🙋 explained
-  - Message Queue 👂 heard
-  - Load balancing 👂 heard
+  - Message Queue 🖐️ used
+  - Load balancing 🖐️ used
 - Network
   - IP sticky sessions 👂 heard
   - Endpoint throttling  🖐️ used
