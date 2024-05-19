@@ -1,89 +1,89 @@
 ## JavaScript
 
 - Language
-  - Object 🖐️ used
-  - this 🖐️ used
-  - arrow function 🖐️ used
-  - async function 🖐️ used
-  - call 🖐️ used
-  - bind 🖐️ used
-  - apply 🖐️ used
-  - instanceof 🖐️ used 
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - arrow function: 🖐️ used
+  - async function: 🖐️ used
+  - call: 🖐️ used
+  - bind: 🖐️ used
+  - apply: 🖐️ used
+  - instanceof: 🖐️ used
   - ...spread
   - ...rest
-  - typeof 🖐️ used
+  - typeof: 🖐️ used
   - destructuring
-  - generator 🖐️ used
-  - iterator 🖐️ used
-  - async generator 🖐️ used
-  - async iterator 🖐️ used
-  - chaining 
+  - generator: 🖐️ used
+  - iterator: 🖐️ used
+  - async generator: 🖐️ used
+  - async iterator: 🖐️ used
+  - chaining
   - optional chaining
   - IIFE
-  - global 🖐️ used
-  - globalThis 🖐️ used
-  - window 🖐️ used
-  - getters and setters 🖐️ used
+  - global: 🖐️ used
+  - globalThis: 🖐️ used
+  - window: 🖐️ used
+  - getters and setters: 🖐️ used
   - __proto__
-  - prototype 🖐️ used
-  - equality operators 🖐️ used
-  - logical operators 🖐️ used
-  - bitwise operators 🖐️ used
-  - ternary operator 🖐️ used
-  - void 🖐️ used
-  - yield 🖐️ used
-  - await 🖐️ used
-  - template literal 🖐️ used
-  - strict mode 
-  - delete 🖐️ used
-  - in 🖐️ used
-  - super 🖐️ used
+  - prototype: 🖐️ used
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
+  - bitwise operators: 🖐️ used
+  - ternary operator: 🖐️ used
+  - void: 🖐️ used
+  - yield: 🖐️ used
+  - await: 🖐️ used
+  - template literal: 🖐️ used
+  - strict mode
+  - delete: 🖐️ used
+  - in: 🖐️ used
+  - super: 🖐️ used
   - Symbol
   - Reflect
 - Statements
-  - if 🖐️ used
-  - while 🖐️ used
-  - do..while 🖐️ used
-  - for 🖐️ used
-  - for..in 🖐️ used
-  - for..of 🖐️ used
-  - for await 🖐️ used
-  - throw 🖐️ used
-  - break 🖐️ used
-  - continue 🖐️ used
-  - import 🖐️ used
-  - export 🖐️ used
-  - label 🖐️ used
-  - try..catch 🖐️ used
-  - switch 🖐️ used
-  - class 🖐️ used
-  - new Error 🖐️ used
-  - with 🖐️ used
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 🖐️ used
+  - for..of: 🖐️ used
+  - for await: 🖐️ used
+  - throw: 🖐️ used
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 🖐️ used
+  - export: 🖐️ used
+  - label: 🖐️ used
+  - try..catch: 🖐️ used
+  - switch: 🖐️ used
+  - class: 🖐️ used
+  - new Error: 🖐️ used
+  - with: 🖐️ used
 - Functions
-  - function declaration 🖐️ used
-  - function expression 🖐️ used
-  - return 🖐️ used
-  - default parameters 🖐️ used
-  - functional object 🖐️ used
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
+  - default parameters: 🖐️ used
+  - functional object: 🖐️ used
 - Data structures
-  - Array 🖐️ used
-  - mixin 🖐️ used
-  - extend 🖐️ used
-  - typed arrays 🖐️ used
-  - Map 🖐️ used
-  - Set 🖐️ used
-  - undefined 🖐️ used
-  - null 🖐️ used
-  - Proxy 👂 heard
-  - weak collections 👂 heard
-  - timers 👂 heard
-  - EventEmitter 👂 heard
-  - RegExp 👂 heard
-  - Date 🖐️ used
-  - BigInt 🖐️ used
+  - Array: 🖐️ used
+  - mixin: 🖐️ used
+  - extend: 🖐️ used
+  - typed arrays: 🖐️ used
+  - Map: 🖐️ used
+  - Set: 🖐️ used
+  - undefined: 🖐️ used
+  - null: 🖐️ used
+  - Proxy: 👂 heard
+  - weak collections: 👂 heard
+  - timers: 👂 heard
+  - EventEmitter: 👂 heard
+  - RegExp: 👂 heard
+  - Date: 🖐️ used
+  - BigInt: 🖐️ used
 - Infrastructure
-  - V8 🖐️ used
-  - Node.js 👂 heard
-  - npm 🖐️ used
-  - prettier 🖐️ used
-  - MDN 🖐️ used
+  - V8: 🖐️ used
+  - Node.js: 👂 heard
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used

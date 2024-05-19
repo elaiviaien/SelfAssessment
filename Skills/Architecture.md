@@ -1,45 +1,45 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 🖐️ used
+  - SOLID: 🙋 explained
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code: 🖐️ used
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
   - Code coverage
-  - Cohesion
-  - Coupling
+  - Cohesion: 🖐️ used
+  - Coupling: 🖐️ used
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Reliability: 🖐️ used
+  - Quality: 🖐️ used
+  - Availability: 🖐️ used
+  - Flexibility: 🖐️ used
+  - Law of Demeter (LoD): 🙋 explained
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
   - System vs applied code
-  - Multilayer approach
+  - Multilayer approach: 🖐️ used
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
   - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Dependency injection (DI): 🖐️ used
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
-  - Message brocker
+  - Message brocker: 🖐️ used
   - Agent
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ): 🖐️ used
   - CQRS
   - Event sourcing
   - E-R data modeling
