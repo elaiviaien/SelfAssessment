@@ -1,82 +1,79 @@
-# Python FastAPI
 
 - Framework
-  - Asynchronous Programming u
-  - Routing u
-  - Validation u
-  - Models u
-  - Dependency Management u
-  - Background Tasks u
-  - Exception Handling u
-  - Middleware u
-  - Pydantic u
-  - CRUD u
-  - Authentication u
-  - OAuth2 Authentication u
-  - JWT u
-  - OAuth2 Password Flow u
-  - API Key Security u
-  - Rate Limiting u
-  - Unit Testing in FastAPI u
-  - Dockerizing u
-  - Performance Optimization u
-  - OpenAPI and Swagger u
-  - WebSocket Communication 👂 heard
-  - Middleware u
-- Application structure and architecture 
-  - Isolation between layer 🖐️ used
-  - Multilayer approach 🖐️ used
-  - Separation of concerns 🖐️ used
-  - Inversion of control 🖐️ used
-  - Dependency injection 👂 heard
-  - GRASP 🙋 explained
-  - SOLID 🙋 explained
-  - Distributed systems 🖐️ used
-  - Highload applications 🙋 explained
-  - Clean architecture 🙋 explained
-  - Message Queue 👂 heard
-  - Load balancing 👂 heard
+  - Asynchronous Programming: 🖐️ used
+  - Routing: 🖐️ used
+  - Validation: 🖐️ used
+  - Models: 🖐️ used
+  - Dependency Management: 🖐️ used
+  - Background Tasks: 🖐️ used
+  - Exception Handling: 🖐️ used
+  - Middleware: 🖐️ used
+  - Pydantic: 🖐️ used
+  - CRUD: 🖐️ used
+  - Authentication: 🖐️ used
+  - OAuth2 Authentication: 🖐️ used
+  - JWT: 🖐️ used
+  - OAuth2 Password Flow: 🖐️ used
+  - API Key Security: 🖐️ used
+  - Rate Limiting: 🖐️ used
+  - Unit Testing in FastAPI: 🖐️ used
+  - Dockerizing: 🖐️ used
+  - Performance Optimization: 🖐️ used
+  - OpenAPI and Swagger: 🖐️ used
+  - WebSocket Communication: 👂 heard
+- Application structure and architecture
+  - Isolation between layer: 🖐️ used
+  - Multilayer approach: 🖐️ used
+  - Separation of concerns: 🖐️ used
+  - Inversion of control: 🖐️ used
+  - Dependency injection: 👂 heard
+  - GRASP: 🙋 explained
+  - SOLID: 🙋 explained
+  - Distributed systems: 🖐️ used
+  - Highload applications: 🙋 explained
+  - Clean architecture: 🙋 explained
+  - Message Queue: 👂 heard
+  - Load balancing: 👂 heard
 - Network
-  - IP sticky sessions 👂 heard
-  - Endpoint throttling  🖐️ used
-  - HTTP(S) 🙋 explained
-  - TCP/SSL 🙋 explained
-  - UDP 🖐️ used
-  - TLS 🖐️ used
-  - Websocket 🖐️ used
-  - SSE 👂 heard
-  - HTTP/3 (QUIC) 👂 heard
-  - Long polling 🖐️ used
-  - REST 🙋 explained
-  - RPC 👂 heard
-  - Routing u
-  - DoS 👂 heard
-  - DDoS 👂 heard
+  - IP sticky sessions: 👂 heard
+  - Endpoint throttling: 🖐️ used
+  - HTTP(S): 🙋 explained
+  - TCP/SSL: 🙋 explained
+  - UDP: 🖐️ used
+  - TLS: 🖐️ used
+  - Websocket: 🖐️ used
+  - SSE: 👂 heard
+  - HTTP/3 (QUIC): 👂 heard
+  - Long polling: 🖐️ used
+  - REST: 🙋 explained
+  - RPC: 👂 heard
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
   - Path traversal
-  - CSRF 🙋 explained
-  - DNS 🙋 explained
-  - SQL injection 👂 heard
-  - keep-alive  🖐️ used
-  - SSL certificates 🖐️ used
+  - CSRF: 🙋 explained
+  - DNS: 🙋 explained
+  - SQL injection: 👂 heard
+  - keep-alive: 🖐️ used
+  - SSL certificates: 🖐️ used
 - Technique and tools
-  - Logging 🖐️ used
-  - Application configuring 🖐️ used
-  - Testing 🖐️ used
-  - CI/CD 🖐️ used
-  - Readable 🖐️ used
-  - Writable 🖐️ used
-  - Transform 🖐️ used 
-  - back pressure 🖐️ used
-  - Buffer 🖐️ used
-  - Console 🖐️ used
-  - Inspector 🖐️ used
-  - Reliability 🖐️ used
-  - Quality 🖐️ used
-  - Availability 🖐️ used
-  - Flexibility 🖐️ used
+  - Logging: 🖐️ used
+  - Application configuring: 🖐️ used
+  - Testing: 🖐️ used
+  - CI/CD: 🖐️ used
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
+  - Transform: 🖐️ used
+  - back pressure: 🖐️ used
+  - Buffer: 🖐️ used
+  - Console: 🖐️ used
+  - Inspector: 🖐️ used
+  - Reliability: 🖐️ used
+  - Quality: 🖐️ used
+  - Availability: 🖐️ used
+  - Flexibility: 🖐️ used
 - Data access
-  - Data access layer 🖐️ used
-  - Repository 🖐️ used
-  - Active record 🖐️ used
-  - Query builder 🖐️ used
-  - Object-Relational Mapping 🖐️ used
+  - Data access layer: 🖐️ used
+  - Repository: 🖐️ used
+  - Active record: 🖐️ used
+  - Query builder: 🖐️ used
+  - Object-Relational Mapping: 🖐️ used

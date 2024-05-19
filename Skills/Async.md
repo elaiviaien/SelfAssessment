@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop 🙋 explained
-  - try..catch 🙋 explained
-  - Non-blocking 🙋 explained
-  - Async I/O 🙋 explained
-  - Thread pool 🙋 explained
+  - Event loop: 🙋 explained
+  - try..catch: 🙋 explained
+  - Non-blocking: 🙋 explained
+  - Async I/O: 🙋 explained
+  - Thread pool: 🙋 explained
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -16,30 +16,30 @@
   - Race conditions
   - Dead locks
   - Live locks
-  - Concurrent programming 🙋 explained
-  - Parallel programming 🙋 explained
+  - Concurrent programming: 🙋 explained
+  - Parallel programming: 🙋 explained
   - Actor Model
-  - Thread 🙋 explained
-  - Process 🙋 explained
+  - Thread: 🙋 explained
+  - Process: 🙋 explained
 - Async contracts
-  - Callbacks 🖐️ used
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
   - Thenable
-  - Promise 🖐️ used
-  - Async/await 🖐️ used
-  - Future 
-  - Deferred 🖐️ used
-  - Sync generator 🖐️ used
-  - Async Generator 🖐️ used
-  - Async Iterator 🖐️ used
-  - Event 🖐️ used
-  - Coroutine 🖐️ used
-  - Goroutine 👂 heard
-  - Signal 🖐️ used
-  - Stream 🖐️ used
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
+  - Future
+  - Deferred: 🖐️ used
+  - Sync generator: 🖐️ used
+  - Async Generator: 🖐️ used
+  - Async Iterator: 🖐️ used
+  - Event: 🖐️ used
+  - Coroutine: 🖐️ used
+  - Goroutine: 👂 heard
+  - Signal: 🖐️ used
+  - Stream: 🖐️ used
   - Chain of responsibility
-  - Middleware 🖐️ used
-  - Locks 🖐️ used
+  - Middleware: 🖐️ used
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify
   - promisify
@@ -47,16 +47,16 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter 🖐️ used
-  - Observable/Observer 🖐️ used
-  - Readable 🖐️ used
-  - Writable 🖐️ used
+  - EventEmitter: 🖐️ used
+  - Observable/Observer: 🖐️ used
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform
-  - Async Pool 🖐️ used
-  - Async Queue 🖐️ used
+  - Async Pool: 🖐️ used
+  - Async Queue: 🖐️ used
   - Async Collector
   - Semaphore
-  - Mutex 🖐️ used
+  - Mutex: 🖐️ used
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers

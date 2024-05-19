@@ -1,37 +1,37 @@
 ## Databases
 
 - Theory and concepts
-  - Data types u
-  - Performance tuning u
-  - Migrations u
-  - Schema versioning u
-  - Backup and recovery u
-  - Database scalability u
-  - Relational databases u
-  - Key-value store u
-  - Tuple store h
-  - Graph databases u
-  - Object databases 
+  - Data types: 🖐️ used
+  - Performance tuning: 🖐️ used
+  - Migrations: 🖐️ used
+  - Schema versioning: 🖐️ used
+  - Backup and recovery: 🖐️ used
+  - Database scalability: 🖐️ used
+  - Relational databases: 🖐️ used
+  - Key-value store: 🖐️ used
+  - Tuple store: 👂 heard
+  - Graph databases: 🖐️ used
+  - Object databases
   - Column databases
   - Navigational databases
   - Hierarchical databases
   - In-memory databases
   - Inverted index
-  - Data control language (DCL) U
-  - Data definition language (DDL) U
-  - Data manipulation language (DML) U
-  - Data query language (DQL) U
+  - Data control language (DCL): 🖐️ used
+  - Data definition language (DDL): 🖐️ used
+  - Data manipulation language (DML): 🖐️ used
+  - Data query language (DQL): 🖐️ used
 - Relational
   - Entity-Relationship Diagram
-  - Normal forms u
-  - Indexing u
-  - Primary keys u
-  - Foreign keys u
-  - Transactions u
+  - Normal forms: 🖐️ used
+  - Indexing: 🖐️ used
+  - Primary keys: 🖐️ used
+  - Foreign keys: 🖐️ used
+  - Transactions: 🖐️ used
   - Views
-  - Subqueries u
-  - Stored procedures u
-  - SQL functions u
+  - Subqueries: 🖐️ used
+  - Stored procedures: 🖐️ used
+  - SQL functions: 🖐️ used
   - Materialized views
   - Replications
   - Virtualization
@@ -70,26 +70,26 @@
   - `DENY
   - `EXPLAIN`
 - Engines
-  - PostgreSQL u
+  - PostgreSQL: 🖐️ used
   - Oracle
   - MySQL
   - MariaDB
   - MS SQL Server
-  - Redis u
-  - Rabbit u
+  - Redis: 🖐️ used
+  - Rabbit: 🖐️ used
   - MongoDB
   - Memcached
   - Riak
   - DB2
-  - SQLite u
+  - SQLite: 🖐️ used
   - DynamoDB
   - Firebase
-  - Neo4j u
+  - Neo4j: 🖐️ used
 - Data engineering
   - Data warehousing
   - Business intelligence
   - Big data
   - Data analysis
-  - AI tools u
-  - Cloud databases u
+  - AI tools: 🖐️ used
+  - Cloud databases: 🖐️ used
   - Data Visualization

@@ -1,44 +1,41 @@
 ## Docker Knowledge Self-Assessment
 
 - Concepts
-  - Docker Engine u
-  - Dockerfile u
-  - Docker Image e
-  - Docker Container e
-  - Docker Compose e
-  - Docker Swarm h
-  - Docker Hub h
-  - Docker Networking u
-  - Docker Volumes u
+  - Docker Engine: 🖐️ used
+  - Dockerfile: 🖐️ used
+  - Docker Image: 🙋 explained
+  - Docker Container: 🙋 explained
+  - Docker Compose: 🙋 explained
+  - Docker Swarm: 👂 heard
+  - Docker Hub: 👂 heard
+  - Docker Networking: 🖐️ used
+  - Docker Volumes: 🖐️ used
 - Commands
-  - docker build u
-  - docker run u
-  - docker pull u
-  - docker push u
-  - docker ps u
-  - docker stop u
-  - docker rm u
-  - docker rmi u
-  - docker exec u
-  - docker logs u
+  - docker build: 🖐️ used
+  - docker run: 🖐️ used
+  - docker pull: 🖐️ used
+  - docker push: 🖐️ used
+  - docker ps: 🖐️ used
+  - docker stop: 🖐️ used
+  - docker rm: 🖐️ used
+  - docker rmi: 🖐️ used
+  - docker exec: 🖐️ used
+  - docker logs: 🖐️ used
 - Dockerfile Instructions
-  - FROM u
-  - RUN u
-  - CMD u
-  - ENTRYPOINT u
-  - COPY u
-  - ADD u
-  - ENV u
-  - ARG u
-  - EXPOSE u
-  - WORKDIR u
-  - USER u
-  - VOLUME u
-
-# Kubernetes Knowledge Self-Assessment
-
+  - FROM: 🖐️ used
+  - RUN: 🖐️ used
+  - CMD: 🖐️ used
+  - ENTRYPOINT: 🖐️ used
+  - COPY: 🖐️ used
+  - ADD: 🖐️ used
+  - ENV: 🖐️ used
+  - ARG: 🖐️ used
+  - EXPOSE: 🖐️ used
+  - WORKDIR: 🖐️ used
+  - USER: 🖐️ used
+  - VOLUME: 🖐️ used
 - Concepts
-  - Cluster u
-  - Node u
-  - Pod u
+  - Cluster: 🖐️ used
+  - Node: 🖐️ used
+  - Pod: 🖐️ used
   - Service ru

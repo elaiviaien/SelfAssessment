@@ -1,137 +1,136 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model e
+  - Model: 🙋 explained
   - Modeling
   - Subject domain
-  - Algorithm e
-  - Syntax e
-  - Semantics e
-  - Abstraction e
-  - Paradigm e
-  - Programm e
-  - Programming paradigm e
-  - Programming language e
+  - Algorithm: 🙋 explained
+  - Syntax: 🙋 explained
+  - Semantics: 🙋 explained
+  - Abstraction: 🙋 explained
+  - Paradigm: 🙋 explained
+  - Programm: 🙋 explained
+  - Programming paradigm: 🙋 explained
+  - Programming language: 🙋 explained
   - Contract
-  - Module e
-  - Library e
-  - Package u
+  - Module: 🙋 explained
+  - Library: 🙋 explained
+  - Package: 🖐️ used
   - Component
-  - Framework e
+  - Framework: 🙋 explained
   - Platform
-  - Source code u
-  - Object code u
-  - Machine code 
+  - Source code: 🖐️ used
+  - Object code: 🖐️ used
+  - Machine code
   - Microcode
-  - Software engineering u
-  - Decomposition u
-  - Control flow u
-  - Data flow u
-  - Code reuse u
-  - Defensive programming u
-  - Don't repeat yourself (DRY) u
-  - KISS principle u
+  - Software engineering: 🖐️ used
+  - Decomposition: 🖐️ used
+  - Control flow: 🖐️ used
+  - Data flow: 🖐️ used
+  - Code reuse: 🖐️ used
+  - Defensive programming: 🖐️ used
+  - Don't repeat yourself (DRY): 🖐️ used
+  - KISS principle: 🖐️ used
 - Syntax and concepts
-  - value 🙋 explained
-  - identifier 🙋 explained
-  - variable 🙋 explained
-  - constant 🙋 explained
-  - scalar 👂 heard
-  - literal 🖐️ used
-  - expression 🙋 explained
-  - heap 👂 heard
-  - function 🙋 explained
-  - procedure 🙋 explained
-  - method 🙋 explained
-  - class 🙋 explained
-  - prototype 🖐️ used
-  - event 🖐️ used
-  - type 🙋 explained
-  - primitive types 🙋 explained
-  - reference types 🙋 explained
-  - flag 🙋 explained
-  - lexical scope 🙋 explained
-  - code block 🙋 explained
-  - conditions 🙋 explained
-  - loops 🙋 explained
-  - assignment 🙋 explained
-  - regular expression 🙋 explained
-  - interface 🙋 explained
-  - contract 👂 heard
-  - module 🙋 explained
-  - call stack 👂 heard
+  - value: 🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar: 👂 heard
+  - literal: 🖐️ used
+  - expression: 🙋 explained
+  - heap: 👂 heard
+  - function: 🙋 explained
+  - procedure: 🙋 explained
+  - method: 🙋 explained
+  - class: 🙋 explained
+  - prototype: 🖐️ used
+  - event: 🖐️ used
+  - type: 🙋 explained
+  - primitive types: 🙋 explained
+  - reference types: 🙋 explained
+  - flag: 🙋 explained
+  - lexical scope: 🙋 explained
+  - code block: 🙋 explained
+  - conditions: 🙋 explained
+  - loops: 🙋 explained
+  - assignment: 🙋 explained
+  - regular expression: 🙋 explained
+  - interface: 🙋 explained
+  - contract: 👂 heard
+  - module: 🙋 explained
+  - call stack: 👂 heard
 - Functions
-  - signature 🙋 explained
-  - argument 🙋 explained
-  - parameter 🙋 explained
-  - pure function 🙋 explained
-  - lambda expression 🙋 explained
-  - side effects 🖐️ used
-  - closure 🖐️ used
-  - partial application 🖐️ used
-  - curry 🖐️ used
-  - higher order 🙋 explained
-  - recursion 🙋 explained
-  - callback 🖐️ used
-  - listener 🖐️ used
-  - compose 👂 heard
-  - pipe 👂 heard
-  - memoize 🖐️ used
-  - wrapper 🙋 explained
-  - functor 👂 heard
-  - monad 👂 heard
-  - monoid 👂 heard
-  - generator 🙋 explained
-  - coroutine 🖐️ used
+  - signature: 🙋 explained
+  - argument: 🙋 explained
+  - parameter: 🙋 explained
+  - pure function: 🙋 explained
+  - lambda expression: 🙋 explained
+  - side effects: 🖐️ used
+  - closure: 🖐️ used
+  - partial application: 🖐️ used
+  - curry: 🖐️ used
+  - higher order: 🙋 explained
+  - recursion: 🙋 explained
+  - callback: 🖐️ used
+  - listener: 🖐️ used
+  - compose: 👂 heard
+  - pipe: 👂 heard
+  - memoize: 🖐️ used
+  - wrapper: 🙋 explained
+  - functor: 👂 heard
+  - monad: 👂 heard
+  - monoid: 👂 heard
+  - generator: 🙋 explained
+  - coroutine: 🖐️ used
 - Data structures
-  - array 🙋 explained
-  - structure 🖐️ used
-  - record 🖐️ used
-  - enum 🙋 explained
-  - instance 🖐️ used
-  - object 🙋 explained
-  - class 🙋 explained
-  - collection 🖐️ used
-  - set 🙋 explained
-  - hash table 🙋 explained
-  - linked list 🖐️ used
-  - doubly list 🖐️ used
-  - unrolled list 👂 heard
-  - circular list 👂 heard
-  - queue 🖐️ used
-  - stack 🙋 explained
-  - deque 👂 heard
-  - tree 🖐️ used
-  - graph 🖐️ used
-  - iterator 🙋 explained
-  - mutable state 🖐️ used
-  - immutable state 🖐️ used
-  - serialization 🙋 explained
-  - string parsing 🖐️ used
+  - array: 🙋 explained
+  - structure: 🖐️ used
+  - record: 🖐️ used
+  - enum: 🙋 explained
+  - instance: 🖐️ used
+  - object: 🙋 explained
+  - collection: 🖐️ used
+  - set: 🙋 explained
+  - hash table: 🙋 explained
+  - linked list: 🖐️ used
+  - doubly list: 🖐️ used
+  - unrolled list: 👂 heard
+  - circular list: 👂 heard
+  - queue: 🖐️ used
+  - stack: 🙋 explained
+  - deque: 👂 heard
+  - tree: 🖐️ used
+  - graph: 🖐️ used
+  - iterator: 🙋 explained
+  - mutable state: 🖐️ used
+  - immutable state: 🖐️ used
+  - serialization: 🙋 explained
+  - string parsing: 🖐️ used
 - Process & style
-  - compiler 🖐️ used
-  - transpiler 👂 heard
-  - linter 🖐️ used
-  - polyfill 👂 heard
-  - debugger 🙋 explained
-  - garbage collection 🙋 explained
-  - refactoring 🙋 explained
-  - code review 🙋 explained
-  - antipatterns 🙋 explained
-  - paradigm 🙋 explained
-  - algorithm 🙋 explained
-  - magic numbers 🙋 explained
-  - hardcode 🙋 explained
-  - complexity 🙋 explained
-  - decomposition 🙋 explained
-  - spaghetti 🙋 explained
-  - silver bullet 🙋 explained
-  - not invented here 🙋 explained
-  - dead code 🙋 explained
-  - unreachable code 🙋 explained
-  - duplicate code 🙋 explained
-  - exception 🙋 explained
-  - return early 🙋 explained
-  - unittest 🙋 explained
-  - git 🙋 explained
-  - github 🙋 explained
+  - compiler: 🖐️ used
+  - transpiler: 👂 heard
+  - linter: 🖐️ used
+  - polyfill: 👂 heard
+  - debugger: 🙋 explained
+  - garbage collection: 🙋 explained
+  - refactoring: 🙋 explained
+  - code review: 🙋 explained
+  - antipatterns: 🙋 explained
+  - paradigm: 🙋 explained
+  - algorithm: 🙋 explained
+  - magic numbers: 🙋 explained
+  - hardcode: 🙋 explained
+  - complexity: 🙋 explained
+  - decomposition: 🙋 explained
+  - spaghetti: 🙋 explained
+  - silver bullet: 🙋 explained
+  - not invented here: 🙋 explained
+  - dead code: 🙋 explained
+  - unreachable code: 🙋 explained
+  - duplicate code: 🙋 explained
+  - exception: 🙋 explained
+  - return early: 🙋 explained
+  - unittest: 🙋 explained
+  - git: 🙋 explained
+  - github: 🙋 explained
